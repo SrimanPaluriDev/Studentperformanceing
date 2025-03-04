@@ -1,4 +1,4 @@
-# Reproducible Data Analysis - Assignment 1  
+ Data Analysis - Assignment 1  
 
 ## **Overview**  
 This project contains two data analysis tasks:  
